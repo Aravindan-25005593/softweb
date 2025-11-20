@@ -45,7 +45,7 @@ Publish the website in the given URL.
             color: #333;
         }
         header {
-            background-image: url('Screenshot 2024-12-17 191121.png');
+            background-image: url('bgfood.jpg');
             background-size: cover;
             color: white;
             text-align: center;
@@ -100,7 +100,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <header>
-        <h1>Welcome to Taste Junction</h1>
+        <h1>Welcome to EatFat</h1>
         <p>Your ultimate stop for irresistible tastes</p>
     </header>
     <nav>
@@ -112,7 +112,7 @@ Publish the website in the given URL.
     
     <section id="home" class="container">
         <h2>Home</h2>
-        <p>Taste Junction: Your journey to deliciousness starts here.<br>A destination for food lovers, a junction for taste.</p>
+        <p>Your comfort food destination starts here.<br>WELCOME to EatFat.</p>
     </section>
 
     <section id="menu" class="container">
@@ -189,21 +189,21 @@ Publish the website in the given URL.
 
     <section id="contact" class="container">
         <h2>Contact Us</h2>
-        <p>Address: 7p/10 south car street,sirkali</p>
+        <p>Address: 7p/10 south car street,Sirkali</p>
         <p>Phone: 012-8975564</p>
-        <p>Email: contact@tastejunction.com</p>
+        <p>Email: contact@eatfat.com</p>
     </section>
 
     <footer>
-        <p>&copy; 2025 Taste Junction | Designed by Priyan V </p>
+        <p>&copy; 2025 EatFat | Designed by ៚λરλνίɴɖλɴ</p>
     </footer>
 </body>
 </html>
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-18 180933.png>)
-![alt text](<Screenshot 2025-11-18 181025.png>)
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
